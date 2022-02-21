@@ -1,3 +1,3 @@
 # Chirag.Jariwala
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chirag.Jariwala&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChiragJariwala&theme=radical)
